@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sparrow"
+  description: "Hands on Intro"
+  annotations:
+    github.com/project-slug: Aiswarya/backstage-demonstration
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "backstage"

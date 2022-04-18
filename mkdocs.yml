@@ -1,0 +1,8 @@
+site_name: "sparrow"
+site_description: "Hands on Intro"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
